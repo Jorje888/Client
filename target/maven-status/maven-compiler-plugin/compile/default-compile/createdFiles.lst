@@ -1,0 +1,6 @@
+org\openjfx\Client\Main.class
+module-info.class
+org\openjfx\Client\HelloController.class
+org\openjfx\Client\ChatController.class
+org\openjfx\Client\StarterMain.class
+org\openjfx\Client\ChatClient.class
